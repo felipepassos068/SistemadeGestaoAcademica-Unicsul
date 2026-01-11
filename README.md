@@ -66,7 +66,8 @@ Este projeto é um ótimo exemplo de aplicação de Estruturas de Dados:
 
 O sistema utiliza armazenamento em **memória volátil** (RAM). Isso significa que, ao fechar a aplicação, os dados cadastrados serão perdidos. Para persistência de dados, seria necessário implementar conexão com Banco de Dados ou salvamento em arquivos (txt/json).
 
+
 ---
 
-Feito com ☕ e Java por Felipe Passos de Albuquerque
+Felipe Passos de Albuquerque
 .
